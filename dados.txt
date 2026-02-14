@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Marcos
+-Profissão: Operaador de maquina
+-Cidade: Cascavel, parana.
+-O que faz nas horas vaga: Descansar um pouco, jogar videogame e estudar curso de qualidade de software.
+-Feedback sobre o curso Qualidade de Software: O curso é muito interessante. O conteúdo fornece muita informação.
+-Feedback sobre a plataforma de estudo da EBAC: Na minha opinião, eu daria uma nota de 8 pontos em 10 no curso de analista de software
 
 Obrigado!!!
 
